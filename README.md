@@ -4,4 +4,4 @@ You should use semantic HTML whenever you can, since it helps machines infer the
 
 However, sometimes you need a container element when none of the semantic HTML elements we just covered would make sense. 
 
-There’s nothing wrong with using a plain old <div> purely for layout purposes.
+There’s nothing wrong with using a plain old `<div>` purely for layout purposes.
